@@ -111,13 +111,3 @@ SAQUE: -R$ 50.00
 SALDO ATUAL: R$ 50.00
 ====================
 ```
-
-## Contribuições
-
-Contribuições são bem-vindas! Se você deseja aprimorar este projeto, siga os passos abaixo:
-
-1. Fork este repositório.
-2. Crie uma branch para sua feature (`git checkout -b minha-feature`).
-3. Realize as alterações desejadas e faça commit (`git commit -am 'Adiciona nova feature'`).
-4. Push para a branch (`git push origin minha-feature`).
-5. Abra um Pull Request detalhando as 
